@@ -5,6 +5,8 @@ This project focuses on analyzing bike sales data to uncover trends based on cus
 Technologies Used
 Power BI: For data analysis and interactive visualizations.
 Sales Data: Includes information on customers and their bike purchases.
+
+
 Key Insights
 Age: Analyzed the distribution of bike purchases across different age groups.
 Region: Sales performance broken down by customer region.
